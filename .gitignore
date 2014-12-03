@@ -1,18 +1,19 @@
 # Frotend
-# Bower
+
+## Bower
 bower_components
 
-# Node
+## Node
 node_modules
 npm-debug.log
 
-# Backup
+## Backup
 *~
 
-# Build
+## Build
 static/build
 
-# Sublime editor
+## Sublime editor
 *.sublime-project
 *.sublime-workspace
 
